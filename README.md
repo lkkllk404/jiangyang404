@@ -29,7 +29,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jiangyang404)
 
 ![lkkllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangyang404&theme=cobalt&show_icons=true)
-
-
-## Others
-![CSPS](CSPS.jpg)
