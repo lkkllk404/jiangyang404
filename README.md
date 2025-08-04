@@ -5,12 +5,12 @@
 - 现在是一名中国体制内准高三生TvT
 - 是退役OIer，然而只拿到一个CSP-S二等奖（我为什么要在NOIP写assert啊啊啊）
 - 仍然在探索自我ing...
-- 超喜欢闺蜜！！（她没有github）
+- 超喜欢闺蜜！！（不过她没有github）
 
 
 ## Skills
 - 我熟悉的：
-	![skills](https://skillicons.dev/icons?i=python,c,cpp,git,js,linux,bash,md,vscode,html,css),x86逆向
+	![skills](https://skillicons.dev/icons?i=python,c,cpp,git,js,linux,bash,md,vscode,html,css)x86逆向
 - 用过但不熟悉的：
 	![skills](https://skillicons.dev/icons?i=flask,androidstudio,cmake,electron,latex)
 
