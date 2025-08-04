@@ -10,10 +10,10 @@
 
 ## Skills
 - 我熟悉的：
-	![skills](https://skillicons.dev/icons?i=python,c,cpp,git,js,linux,bash,md,vscode)
+	![skills](https://skillicons.dev/icons?i=python,c,cpp,git,js,linux,bash,md,vscode,html,css)
 	外加x86架构逆向工程
 - 用过但不熟悉的：
-	![skills](https://skillicons.dev/icons?i=flask,html,css,androidstudio,cmake,electron,latex)
+	![skills](https://skillicons.dev/icons?i=flask,androidstudio,cmake,electron,latex)
 
 
 ## Contract
