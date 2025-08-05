@@ -25,6 +25,6 @@
 ## State
 ~~我原本想把这段注释掉的~~
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jiangyang404)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lkkllk404)
 
-![lkkllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangyang404&theme=cobalt&show_icons=true)
+![lkkllk's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkkllk404&theme=cobalt&show_icons=true)
